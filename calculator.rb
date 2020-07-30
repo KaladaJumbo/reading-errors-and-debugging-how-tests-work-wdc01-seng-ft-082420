@@ -5,4 +5,5 @@ second_number = 5
 
 sum = first_number + second_number
 difference = first_number - second_number
-milt
+product = first_number * second_number
+quotent = first_number / second_number
